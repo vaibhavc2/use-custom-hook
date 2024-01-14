@@ -17,7 +17,7 @@ A starter template for creating a new React Hook.
 * Clone the `useCustomHook` repo locally and navigate to the project
 
 ```
-git clone https://github.com/colbyfayock/use-custom-hook [directory]
+git clone https://github.com/vaibhavc2/use-custom-hook [directory]
 cd [directory]
 ```
 
